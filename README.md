@@ -4,6 +4,9 @@ FIND ON EXTENSION MARKET PLACE
 SEARCH: ATJS Catalyst
 
 
+USE: DEEPSEEK R1 T2 CHIMERA FROM OPENROUTER
+(OTHER MODEL SUPPORT COMING SOON)
+
 
 Catalyst is a **Visual Studio Code extension** that aims to bridge the gap between AI-assisted coding and genuine understanding. With the rise of AI-generated code snippets, developers often copy-paste solutions without fully grasping how they work.
 
