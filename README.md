@@ -1,5 +1,6 @@
 # Catalyst – Your AI Coding Mentor
-
+FIND ON EXTENSION MARKET PLACE
+SEARCH: ATJS Catalyst
 Catalyst is a **Visual Studio Code extension** that aims to bridge the gap between AI-assisted coding and genuine understanding. With the rise of AI-generated code snippets, developers often copy-paste solutions without fully grasping how they work.
 
 **Catalyst** makes that learning process engaging by:
